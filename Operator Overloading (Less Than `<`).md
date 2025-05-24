@@ -36,7 +36,7 @@ class A:
         else:
             return "ob2 is less than ob1"
 
-ob1 = A(10)
+ob1 = A(40)
 ob2 = A(20)
 
 print(ob1 < ob2)
