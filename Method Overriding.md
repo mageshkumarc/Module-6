@@ -30,7 +30,7 @@ for fish in (obj_goldfish, obj_hammerhead):
     fish.type()
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/35d9c759-bd3d-4e35-8bba-2fed531d8b28)
+![image](https://github.com/user-attachments/assets/95c42683-4bde-4cfd-96eb-55af4d997b80)
 
 ## RESULT
 Thus,the program is executed sucessfully
