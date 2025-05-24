@@ -50,7 +50,7 @@ func(bean)
 func(mango)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/9a2b1b81-5b76-449a-a4f4-97ef746f9bec)
+![image](https://github.com/user-attachments/assets/2e11b3b4-957f-4665-a817-0c70fa692a85)
 
 ## Result
 Thus,the program is executed sucessfully
