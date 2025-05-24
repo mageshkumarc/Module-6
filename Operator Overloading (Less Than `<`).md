@@ -42,7 +42,7 @@ ob2 = A(20)
 print(ob1 < ob2)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/a74a0922-1e40-4d6e-af0f-4d94ad70b49c)
+![image](https://github.com/user-attachments/assets/dbcb495c-501c-41ef-ac66-ade78776756a)
 
 ## Result
 Thus,the program is executed successfully
