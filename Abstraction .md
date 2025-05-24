@@ -60,7 +60,7 @@ print("Rectangle Area:", rectangle.calculate_area())
 print("Circle Area:", circle.calculate_area())
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/b9031353-2597-4135-bd8d-e157a617b15d)
+![image](https://github.com/user-attachments/assets/bcc65c66-86c8-4b40-81b5-59ba236c4c1c)
 
 ## Result
 Thus,the program is executed successfully
